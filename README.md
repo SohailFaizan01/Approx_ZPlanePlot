@@ -1,4 +1,4 @@
-# Approx_ZPlanePlot
+# Approximate_Z-Plane_Plot
 An approximate Z Plane plotting code 
 This code takes real signal data and does point-wise z transform and plots a 3D plot.
 The number of points and number of axii along which the points are calculated are all configurable.
